@@ -1,4 +1,4 @@
-package com.ocp7;
+package com.ocp07;
 
 public class BookStore {
     public static void main(String[] args) {

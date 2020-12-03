@@ -1,4 +1,4 @@
-package com.ocp7;
+package com.ocp07;
 
 public class Wallet {
     private static String owner = "媽媽的錢包";

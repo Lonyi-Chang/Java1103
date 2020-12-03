@@ -1,20 +1,17 @@
-package com.ocp07;
+package com.ocp06;
 
-public class Book {
-    public static String publishName = "goTop";
+public class Drink {
     private String name;
     private int price;
 
-    public Book() {
-        System.out.println("執行 BOOK 建構子1"); //未帶參數執行此
+    public Drink() {
     }
-    
-    public Book(String name, int price) {  //有帶參數執行此
-        System.out.println("執行 BOOK 建構子2");
+
+    public Drink(String name, int price) {
         this.name = name;
         this.price = price;
     }
-    
+
     public String getName() {
         return name;
     }
@@ -30,10 +27,9 @@ public class Book {
     public void setPrice(int price) {
         this.price = price;
     }
-
     @Override
     public String toString() {
-        return "Book{" + "publishName=" + publishName + ", name=" + name + ", price=" + price + '}';
+        return "Drink{" + "name=" + name + ", price=" + price + '}';
     }
     
 }

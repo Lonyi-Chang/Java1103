@@ -1,4 +1,4 @@
-package com.ocp7;
+package com.ocp07;
 
 public class Num {
     private static int m; //共用類別(static

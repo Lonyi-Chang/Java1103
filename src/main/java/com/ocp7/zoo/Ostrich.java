@@ -1,4 +1,4 @@
-package com.ocp7.zoo;
+package com.ocp07.zoo;
 
 public class Ostrich extends Bird{
 

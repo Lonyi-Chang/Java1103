@@ -1,4 +1,4 @@
-package com.ocp7.zoo;
+package com.ocp07.zoo;
 
 public class Zoo5 {
     public static void main(String[] args) {
