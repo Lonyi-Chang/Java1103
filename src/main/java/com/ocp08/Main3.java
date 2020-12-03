@@ -1,10 +1,6 @@
-/*
-使程式能獨立租出Car/Bicycle/Airplane
-參考MultiArray2
- */
-package com.ocp8;
+package com.ocp08;
 
-public class HW1126 {
+public class Main3 {
     public static void main(String[] args) {
         int n = 2;
         Class[] classes = {Car.class, Bicycle.class, Airplane.class};

@@ -1,4 +1,4 @@
-package com.ocp9;
+package com.ocp09;
 
 public class MultiAdd {
     public static void add(int x, int y) {

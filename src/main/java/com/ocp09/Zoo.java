@@ -1,4 +1,4 @@
-package com.ocp9;
+package com.ocp09;
 
 class Bird {
     void move() { System.out.println("飛");}

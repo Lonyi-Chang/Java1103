@@ -1,4 +1,4 @@
-package com.ocp8;
+package com.ocp08;
 
 // 租賃工司
 public class RentalCompany {

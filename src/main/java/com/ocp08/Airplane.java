@@ -1,4 +1,4 @@
-package com.ocp8;
+package com.ocp08;
 
 public class Airplane extends Transportation{
 

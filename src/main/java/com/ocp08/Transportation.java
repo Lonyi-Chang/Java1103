@@ -1,4 +1,4 @@
-package com.ocp8;
+package com.ocp08;
 
 //交通工具(父類別)
 public class Transportation {

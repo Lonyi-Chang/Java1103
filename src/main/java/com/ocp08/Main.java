@@ -1,4 +1,4 @@
-package com.ocp8;
+package com.ocp08;
 
 import java.util.Arrays;
 
