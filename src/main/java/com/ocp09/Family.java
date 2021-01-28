@@ -1,7 +1,4 @@
 package com.ocp09;
-
-import com.sun.xml.internal.bind.v2.runtime.output.SAXOutput;
-//class
 class Father {
     public Father() {
         System.out.println("Father no money");
